@@ -1,0 +1,5 @@
+const names = require("../Day1/name")
+const hi = require("../Day1/module")
+const data = require('../Day1/alternative')
+require('../Day1/garadeNade')
+hi(names.trunganhFake)
